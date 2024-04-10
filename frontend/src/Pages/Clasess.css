@@ -1,0 +1,27 @@
+.features .icon-box i{
+  
+    font-size: 13px !important;
+    color: orangered;
+}
+.features .icon-box:hover {
+    border: 1px solid #000 !important;
+    color: #000 !important;
+    
+}
+.features .icon-box .colo :hover a{
+    color: #000 !important;
+    
+}
+.features .icon-box .colo i:hover{
+  
+    font-size: 13px !important;
+    color: #000 !important;
+}
+.features .icon-box h3 a:hover{
+    color: #000 !important;
+
+}
+.bgchange{
+    background-color:  #5fcf80 !important;
+    color: #000 !important;
+}

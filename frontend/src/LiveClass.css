@@ -1,0 +1,104 @@
+#livclass-cf{
+    padding: 10px 0;
+    /* background-color: red; */
+}
+#livclass-cf hr{
+    height: 0.8px;
+    background-color: gray;
+}
+
+
+#livclass-cf .livecls-togle{
+    height: auto;
+    width: 40%;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 5px 10px;
+    margin: 15px 0;
+}
+#livclass-cf .liveclass-frame{
+    height: auto;
+    width: auto;
+    border-radius: 10px;
+    /* padding: 30px 0; */
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+    /* background-color: aliceblue; */
+}
+#livclass-cf .liveclass-frame iframe{
+    height: 400px;
+    width: 100%;
+    border: 0.5px solid gray;
+    border-radius: 10px;
+}
+/* title */
+
+#livclass-cf .liveclass-frame .class-title{
+    padding: 10px 0;
+}
+#livclass-cf .liveclass-frame .class-title h5{
+    font-size: 14px;
+}
+#livclass-cf .liveclass-frame .class-title h4{
+    /* color: red; */
+   font-size: 18px;
+}
+#livclass-cf .liveclass-frame .class-title span{
+   font-weight: 500;
+}
+#livclass-cf .liveclass-frame .class-title i{
+   font-size: 20px; 
+}
+#livclass-cf .liveclass-frame .class-title button{
+    box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
+    border: 1px solid gray;
+    font-weight:500;
+}
+#livclass-cf .liveclass-frame .class-title button:hover{
+    color: white;
+    background-color: #5fcf80;;
+}
+
+/* secation 2nd  */
+#livclass-cf #sec2-lv-top{
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+#livclass-cf #sec2-lv-wrap{
+    border-radius: 5px;
+    padding: 15px 0;
+    margin: 15px 0;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
+}
+
+#livclass-cf #sec2-ic i{
+    /* width: 80%; */
+    font-size: 18px;
+    border-radius: 10px;
+    padding: 15px;
+    color: white;
+    background-color: #5fcf80;
+}
+
+/* other live class */
+
+#livclass-cf #other-live-cls iframe{
+    width: 100%;
+    border-radius: 5px;
+}
+#livclass-cf #other-live-cls .other-live-cls-p{
+    padding: 4px;
+}
+
+#livclass-cf #other-live-cls .other-live-cls-p:nth-child(2){
+    font-weight: 700;
+    font-size: 16px;
+    padding-top: 10px;
+} 
+#livclass-cf #other-live-cls .other-live-cls-p:nth-child(3){
+    font-weight: 400;
+    font-size: 14px;
+    
+}
+#livclass-cf #other-live-cls .other-live-cls-p:nth-child(4){
+   font-weight: 500;
+}
